@@ -1,4 +1,4 @@
-(https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![MasterHeadh](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)
 <h1 align="center">Hi 👋, I'm Aishwaryjeet Shrivastava</h1>
 <h3 align="center">Go Further!</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/building-bridges-assets/latest/coding_eb282ea6c2/coding_eb282ea6c2.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing **B.tech (C.S.E)**
+- 🔭 I’m currently pursuing **B.tech (C.S.E) from BUIT**
 
 - 🌱 I’m currently learning **C++ , C , Java**
 
