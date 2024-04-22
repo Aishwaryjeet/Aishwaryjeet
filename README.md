@@ -1,4 +1,4 @@
-![MasterHeadh](https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)
+(https://www.ajaydubedi.com/wp-content/uploads/2015/06/Programming-Logic-Key-Ingredients-Banner.png)
 <h1 align="center">Hi 👋, I'm Aishwaryjeet Shrivastava</h1>
 <h3 align="center">Go Further!</h3>
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/building-bridges-assets/latest/coding_eb282ea6c2/coding_eb282ea6c2.gif">
